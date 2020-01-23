@@ -1,0 +1,1 @@
+# qatest-automation-framework-core

@@ -1,0 +1,9 @@
+SubscriptionActivationDate = 2017-01-01T08:00:00Z
+SubscriptionExpirationDate = 2020-12-31T08:00:00Z
+
+SessionId = ead227d8-0000-4987-9bf7-1ac7a9b15608
+RequestId = ead227d8-2722-0000-9bf7-1ac7a9b15608
+
+# Intentionally specifying invalid values so that experimental runs of the tests do not hamper the actual test bench
+SingleTDAC = 64326025772zz
+SingleVIN = 1FUY3EDB8XPA0011zz

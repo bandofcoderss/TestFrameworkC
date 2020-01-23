@@ -1,0 +1,13 @@
+# Proxy configuration - UseProxy (true or false), ProxyIP, ProxyPort
+UseProxy = true
+ProxyIP = 10.255.247.227
+ProxyPort = 8080
+
+# BaseURI - leave empty if tests use fully qualified URIs, else specify initial part of the URI specific to the tests
+BaseURI = https://cp20apimgqa.azure-api.net
+
+# RequestResponseLogging - By default NONE setting will be applied 
+#                          specify ALL to log all requests and responses
+#                          specify IF-VALIDATION-FAILS to log requests only when there
+#                          specify NONE to disable automatic logging of all requests, use ".log()" methods in code to carry out logging
+RequestResponseLogging = ALL
